@@ -1,7 +1,7 @@
 <?php 
 require('top.php');					
 ?>
-<div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(images/bg/4.jpg) no-repeat scroll center center / cover ;">
+<div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(https://images.squarespace-cdn.com/content/v1/528f8b33e4b01f2a315145b2/1528881369887-Q7THZ8NOOD0KHT5XXQZB/0245b.jpg) no-repeat scroll center center / cover ;">
             <div class="ht__bradcaump__wrap">
                 <div class="container">
                     <div class="row">

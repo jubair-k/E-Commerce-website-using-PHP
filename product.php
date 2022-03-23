@@ -21,7 +21,7 @@ if(isset($_GET['id'])){
 ?>
 
  <!-- Start Bradcaump area -->
-        <div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(images/bg/4.jpg) no-repeat scroll center center / cover ;">
+        <div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(https://t3.ftcdn.net/jpg/03/10/26/88/360_F_310268817_28ResiOuYNUo7qkWcjKX3ZBAFWSh3x7w.jpg) no-repeat scroll center center / cover ;">
             <div class="ht__bradcaump__wrap">
                 <div class="container">
                     <div class="row">

@@ -11,17 +11,17 @@
                             <div class="col-md-7 col-sm-7 col-xs-12 col-lg-6">
                                 <div class="slide">
                                     <div class="slider__inner">
-                                        <h2>collection 2018</h2>
-                                        <h1>NICE CHAIR</h1>
+                                        <h2>SALE 70% OFF</h2>
+                                        <h1>NEW STYLE</h1>
                                         <div class="cr__btn">
-                                            <a href="cart.html">Shop Now</a>
+                                            <a href="#">Shop Now</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-5 col-xs-12 col-md-5">
                                 <div class="slide__thumb">
-                                    <img src="images/slider/fornt-img/1.png" alt="slider images">
+                                    <img src="https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="slider images">
                                 </div>
                             </div>
                         </div>
@@ -35,8 +35,8 @@
                             <div class="col-md-7 col-sm-7 col-xs-12 col-lg-6">
                                 <div class="slide">
                                     <div class="slider__inner">
-                                        <h2>collection 2018</h2>
-                                        <h1>NICE CHAIR</h1>
+                                        <h2>collection 2022</h2>
+                                        <h1>NEW ARRIVELS</h1>
                                         <div class="cr__btn">
                                             <a href="cart.html">Shop Now</a>
                                         </div>
@@ -45,7 +45,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-5 col-xs-12 col-md-5">
                                 <div class="slide__thumb">
-                                    <img src="images/slider/fornt-img/2.png" alt="slider images">
+                                    <img src="https://media.istockphoto.com/photos/lets-start-a-baby-hair-challenge-picture-id1280349927?k=20&m=1280349927&s=612x612&w=0&h=egmCIeZcetZrrD4LqydO8qXitQFCFnhpOPdJz772OdY=" alt="slider images">
                                 </div>
                             </div>
                         </div>

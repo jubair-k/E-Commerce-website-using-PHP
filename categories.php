@@ -51,7 +51,7 @@ if($cat_id>0 && ($sub_categories!='' && $sub_categories>0)){
 <div class="body__overlay"></div>
         
         <!-- Start Bradcaump area -->
-        <div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(images/bg/4.jpg) no-repeat scroll center center / cover ;">
+        <div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(https://images.ctfassets.net/hrltx12pl8hq/40Hz2AvWv3cowAbqsDdkX/ad81c39e968ca08d46ddf1b574546814/shutterstock_1043751988.jpg?fit=fill&w=800&h=300) no-repeat scroll center center / cover ;">
             <div class="ht__bradcaump__wrap">
                 <div class="container">
                     <div class="row">
